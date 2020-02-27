@@ -15,7 +15,8 @@
   * Java核心技术  
   * 廖雪峰Java教程  
   * Spring实战  
-  * Spring Boot实战  
+  * Spring Boot实战
+  * [Spring Boot教程](http://www.ityouknow.com/spring-boot.html)
 <br>
 
 ## Python 
