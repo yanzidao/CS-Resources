@@ -20,7 +20,6 @@
 <br>
 
 ## Python 
-  * [官网教程](https://docs.python.org/zh-cn/3/tutorial/)
   * 廖雪峰Python教程  
   * 流畅的 Python  
 <br>
