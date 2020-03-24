@@ -20,8 +20,9 @@
 <br>
 
 ## Python 
-  * 廖雪峰Python教程  
+  * [Python官网］（https://docs.python.org/zh-cn/3/tutorial/index.html）   
   * 流畅的 Python  
+  * Python Cookbook
 <br>
 
 ## 算法
