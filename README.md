@@ -35,7 +35,8 @@
 <br>
 
 ## 数据库
-  * MYSQL必知必会  
+  * MYSQL必知必会
+  * Designing Data-Intensive Applications
 <br>
 
 ## Linux
@@ -48,3 +49,4 @@
   * 代码大全
   * 重构
   * 代码整洁之道
+  * A Philosophy Of Software Design
