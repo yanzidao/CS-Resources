@@ -39,6 +39,10 @@
   * Designing Data-Intensive Applications
 <br>
 
+## 分布式系统
+  *[2020 MIT 6.824 分布式系统](https://www.bilibili.com/video/av87684880)
+<br>
+
 ## Linux
   * 鸟哥的Linux私房菜  
   * UNIX环境高级编程  
