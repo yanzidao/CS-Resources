@@ -23,6 +23,7 @@
   * [Python官网］（https://docs.python.org/zh-cn/3/tutorial/index.html）   
   * 流畅的 Python  
   * Python Cookbook
+  * Inside The Python Virtual Machine
 <br>
 
 ## 算法
@@ -40,7 +41,7 @@
 <br>
 
 ## 分布式系统
-  *[2020 MIT 6.824 分布式系统](https://www.bilibili.com/video/av87684880)
+  * [2020 MIT 6.824 分布式系统](https://www.bilibili.com/video/av87684880)
 <br>
 
 ## Linux
